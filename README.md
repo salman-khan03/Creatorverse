@@ -1,5 +1,5 @@
 ## Creatorverse
-Developed by: Myesha Mahazabeen
+Developed by: Salman Khan
 
 About this web app: Creatorverse is a website built with React (frontend) & Supabase(backend) that supports CRUD (create, read, update, and delete) operations on your favorite content creators. Your content creators can be Twitch streamers, YouTube channels, Instagram, Twitter and Tiktok personalities.
 
@@ -37,18 +37,10 @@ Time spent: 15 hours
  - [x] Styled with hover over effect on the creator cards and social buttons/icons
        
  - [x] Added a footer
-
- ## Video Walkthrough
-
-Here's a walkthrough of implemented required features:
-
-![](https://github.com/Myesha-Mahazabeen/creatorverse/blob/master/creatorverse.gif)
- 
- GIF created with ios shortcuts app
  
  ## License
 
-Copyright [2023] [Myesha Mahazabeen]
+Copyright [2025] [Salman Khan]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
